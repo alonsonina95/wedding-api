@@ -1,12 +1,22 @@
 [
     {
-        "name": "Lebron",
-        "team": "Lakers",
-        "pointsPerGame": 27
+        "firstName": "Alonso",
+        "lastName": "Ninalaya"
     },
     {
-        "name": "Kevin",
-        "team": "Durant",
-        "pointsPerGame": 30
+        "firstName": "Veronica",
+        "lastName": "Alva"
+    },
+    {
+        "firstName": "Rafael",
+        "lastName": "Ninalaya"
+    },
+    {
+        "firstName": "Angela",
+        "lastName": "Olivar"
+    },
+    {
+        "firstName": "Alison",
+        "lastName": "Ninalaya"
     }
 ]
